@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "enterslash Light Nextjs",
+    "title": "Enterslash",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "enterslash Light"
+    "logo_text": "enterslash"
   },
 
   "settings": {
@@ -31,6 +31,6 @@
   "metadata": {
     "meta_author": "Enterslash",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "Solve your critical business challenges"
   }
 }
